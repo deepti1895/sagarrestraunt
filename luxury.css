@@ -1,0 +1,136 @@
+	@charset "utf-8";
+	/* CSS Document */
+	.navbar-default
+	{
+	background-color:#262728S;
+
+
+	}
+	.navbar-brand:hover{
+	background-color:red;
+
+
+
+	}
+	.navbar-nav
+	{
+	font-family:'Monoton', cursive;
+	color: white;
+
+
+	}
+	.fossil
+	{
+
+		background-image:url(images/5049dacb.jpg);
+		background-position:center;
+		text-align:center;
+		color:#FFF;
+		padding-bottom:50px;
+		background-size:100% 100%;
+	  font-family:'Monoton', cursive;
+		padding-top:500px;
+		width:100%;
+		height:100%;
+		position: relative;
+		top: -23px;
+	}
+
+	.tag
+	{
+		background-image:url(images/a01ad7ef03a28b56e564d78b1ce6180c.jpg);
+		background-position:center;
+		background-image:no-repeat;
+		height:500px;
+		position:relative;
+		top:0px;
+		z-index:-1;
+		text-align:center;
+		background-size:100% 100%;
+		font-family: 'Monoton', cursive;
+		font-size:90px;
+		padding-right:0px;
+		color:#FFF;
+		width:100%;
+		height:600px;
+		margin:auto;
+	}
+	#heading1
+	{
+		font-size: 60px;
+		position:relative;
+		top:-270px;
+	}
+	.longines
+	{
+		background-image:url(images/restaurant-wine-glasses-served-51115.jpeg);
+		background-position:center;
+		background-image:no-repeat;
+		height:500px;
+		text-align:center;
+		padding-left:0px;
+		background-size:100% 100%;
+		font-family: 'Monoton', cursive;
+		font-size:90px;
+		color:#FFF;
+		width:100%;
+		height:540px;
+		margin:auto;
+
+	}
+	.longines:hover{
+							border: 8px black solid;
+	         			}
+
+	#heading2
+	{
+		font-size: 60px;
+		position:relative;
+		top:90px;
+
+	}
+	#heading3
+	{
+		font-size:60px;
+		position:relative;
+		top:55px;
+
+	}
+	.omega
+	{
+	width: 100%;
+	height:500px;
+	background-image: url(images/rio.jpg);
+	z-index:-1;
+	}
+	.text-center:hover{
+	color: grey;
+	}
+	.harshit{
+		padding:0;
+		margin: 0;
+	}
+	.carousel-inner{
+		margin-right: 10px;
+
+	}
+	.item active{
+		background-size: contain;
+	}
+	. glyphicon-glass
+	{
+		height: 10000px;
+		width: 400px;
+
+	}
+.harshit{
+	font-family:'Monoton', cursive;
+	word-spacing: 10px;
+	font-weight: bold;
+	font-size: 40px;
+	color: green;
+	z-index: 1;
+	position: relative;
+	bottom: -500px;
+	left: 80px;
+}
